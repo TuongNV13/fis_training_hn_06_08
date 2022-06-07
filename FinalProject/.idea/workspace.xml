@@ -1,123 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3895a20-34f6-4e7d-8428-540e3ce9ef43" name="Changes" comment="" />
+    <list default="true" id="a87b130d-ef21-4ab5-865d-25675344239d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2ABdwWMxg4kLbSXoxwIk4DjOCK7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2AFsy5SFpmfrz2tiE4ElDdiJWR4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="fis.java.bigexample.dao.criminal" />
-      <recent name="fis.java.bigexample.dao.detective" />
-      <recent name="fis.java.bigexample.model" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.DetectiveDAOMemImplTest.remove">
-    <configuration name="DetectiveDAOMemImplTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FinalProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fis.java.bigexample.dao.detective.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="fis.java.bigexample.dao.detective" />
-      <option name="MAIN_CLASS_NAME" value="fis.java.bigexample.dao.detective.DetectiveDAOMemImplTest" />
-      <option name="METHOD_NAME" value="get" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DetectiveDAOMemImplTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FinalProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fis.java.bigexample.dao.detective.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="fis.java.bigexample.dao.detective" />
-      <option name="MAIN_CLASS_NAME" value="fis.java.bigexample.dao.detective.DetectiveDAOMemImplTest" />
-      <option name="METHOD_NAME" value="remove" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DetectiveTest.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FinalProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fis.java.bigexample.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="fis.java.bigexample.model" />
-      <option name="MAIN_CLASS_NAME" value="fis.java.bigexample.model.DetectiveTest" />
-      <option name="METHOD_NAME" value="testConstructor" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.DetectiveDAOMemImplTest.remove" />
-        <item itemvalue="JUnit.DetectiveDAOMemImplTest.get" />
-        <item itemvalue="JUnit.DetectiveTest.testConstructor" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b3895a20-34f6-4e7d-8428-540e3ce9ef43" name="Changes" comment="" />
-      <created>1654487151084</created>
+      <changelist id="a87b130d-ef21-4ab5-865d-25675344239d" name="Default Changelist" comment="" />
+      <created>1654616918130</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1654487151084</updated>
-      <workItem from="1654610841989" duration="2754000" />
-      <workItem from="1654614859497" duration="22000" />
+      <updated>1654616918130</updated>
+      <workItem from="1654616919326" duration="227000" />
+      <workItem from="1654617171454" duration="19000" />
+      <workItem from="1654617217691" duration="11000" />
     </task>
     <servers />
   </component>
@@ -125,13 +42,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1302" y="229" key="FileChooserDialogImpl" timestamp="1654610911774">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1302" y="229" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1654610911774" />
-    <state x="539" y="210" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1654610881469">
+    <state x="514" y="312" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1654616963906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="539" y="210" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1654610881469" />
+    <state x="514" y="312" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1654616963906" />
   </component>
 </project>
