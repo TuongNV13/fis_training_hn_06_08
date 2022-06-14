@@ -2,12 +2,20 @@ package fis.training.finalproject.model;
 
 import fis.training.finalproject.model.enums.EmploymentStatus;
 import fis.training.finalproject.model.enums.Rank;
+<<<<<<< Updated upstream
 import org.junit.Test;
+=======
+import org.junit.jupiter.api.Test;
+>>>>>>> Stashed changes
 
 import java.util.ArrayList;
 import java.util.List;
 
+<<<<<<< Updated upstream
 import static org.junit.Assert.assertEquals;
+=======
+import static org.junit.jupiter.api.Assertions.*;
+>>>>>>> Stashed changes
 
 public class DetectiveTest {
 
@@ -28,9 +36,15 @@ public class DetectiveTest {
         List<Detective> detectiveList = new ArrayList<>();
         //Dummy Data
         Person person = new Person();
+<<<<<<< Updated upstream
         person.setUserName("TuongNV");
         person.setFirstName("Hien");
         person.setLastName("Thanh Mai");
+=======
+        person.setUserName("phuocnt");
+        person.setFirstName("Phuoc");
+        person.setLastName("Nguyen Thanh");
+>>>>>>> Stashed changes
 
         Detective detective = new Detective(1L, person, "1", Rank.TRANEE, true,
                 EmploymentStatus.ACTIVE);

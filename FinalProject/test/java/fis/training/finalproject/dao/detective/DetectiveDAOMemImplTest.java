@@ -2,12 +2,20 @@ package fis.training.finalproject.dao.detective;
 
 import fis.training.finalproject.model.Detective;
 import fis.training.finalproject.model.DetectiveTest;
+<<<<<<< Updated upstream
 import org.junit.Test;
+=======
+import org.junit.jupiter.api.Test;
+>>>>>>> Stashed changes
 
 import java.util.List;
 import java.util.function.Consumer;
 
+<<<<<<< Updated upstream
 import static org.junit.Assert.*;
+=======
+import static org.junit.jupiter.api.Assertions.*;
+>>>>>>> Stashed changes
 
 class DetectiveDAOMemImplTest {
     @Test
@@ -24,8 +32,13 @@ class DetectiveDAOMemImplTest {
 
         Detective detective = iDetectiveDAO.get(1L);
 
+<<<<<<< Updated upstream
         assertEquals("Hien", detective.getPerson().getFirstName());
         assertNotEquals("Hiem", detective.getPerson().getFirstName());
+=======
+        assertEquals("Phuoc", detective.getPerson().getFirstName());
+        assertNotEquals("Phuc", detective.getPerson().getFirstName());
+>>>>>>> Stashed changes
 
         detective = iDetectiveDAO.get(2L);
         assertNull(detective);
@@ -48,7 +61,11 @@ class DetectiveDAOMemImplTest {
         Detective detective = iDetectiveDAO.remove(1L);
 
         assertNotNull(detective);
+<<<<<<< Updated upstream
         assertEquals("TuongNV", detective.getPerson().getFirstName());
+=======
+        assertEquals("Phuoc", detective.getPerson().getFirstName());
+>>>>>>> Stashed changes
 
         assertEquals(numOfDetective - 1, iDetectiveDAO.getAll().size());
 
