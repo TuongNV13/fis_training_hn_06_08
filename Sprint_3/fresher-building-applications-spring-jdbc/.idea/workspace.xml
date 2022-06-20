@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae8b13e2-f269-4d93-b579-f5b5e2c57266" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29eurslIC9MAGfCUX8LuOiHHXrk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FIS_Mini_Exercise\Topic10_2_SpringData_JDBC_TBD\fresher-building-applications-spring-jdbc-ok\test\java\com\fresher\repository\jdbctemplate" />
+      <recent name="D:\FIS_Mini_Exercise\Topic10_2_SpringData_JDBC_TBD\fresher-building-applications-spring-jdbc-ok\test\resources" />
+      <recent name="D:\FIS_Mini_Exercise\Topic10_2_SpringData_JDBC_TBD\fresher-building-applications-spring-jdbc-ok\src\main\resources" />
+      <recent name="D:\FIS_Mini_Exercise\Topic10_2_SpringData_JDBC_TBD\fresher-building-applications-spring-jdbc-ok\test\resources\db" />
+      <recent name="D:\FIS_Mini_Exercise\Topic10_2_SpringData_JDBC_TBD\fresher-building-applications-spring-jdbc-ok\test\java\com\fresher\repository\jdbctemplate\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FIS_Mini_Exercise\Topic10_2_SpringData_JDBC_TBD\fresher-building-applications-spring-jdbc-m7-after\src\main\resources\db\migration" />
+      <recent name="D:\FIS_Mini_Exercise\Topic10_2_SpringData_JDBC_TBD\fresher-building-applications-spring-jdbc-m7-after\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fresher.repository.jdbctemplate" />
+      <recent name="com.pluralsight.repository" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fresher.config" />
+      <recent name="com.fresher" />
+      <recent name="com.pluralsight" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootJDBCTemplateApp">
+    <configuration name="JdbcAgnosticRepoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fresher-building-applications-spring-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fresher.repository.jdbctemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fresher.repository.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="com.fresher.repository.jdbctemplate.JdbcAgnosticRepoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcDetectiveRepoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fresher-building-applications-spring-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fresher.repository.jdbctemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fresher.repository.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="com.fresher.repository.jdbctemplate.JdbcDetectiveRepoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcPersonRepoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fresher-building-applications-spring-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fresher.repository.jdbctemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fresher.repository.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="com.fresher.repository.jdbctemplate.JdbcPersonRepoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcPersonRepoTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fresher-building-applications-spring-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fresher.repository.jdbctemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fresher.repository.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="com.fresher.repository.jdbctemplate.JdbcPersonRepoTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="fresher-building-applications-spring-jdbc" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="fresher-building-applications-spring-jdbc" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootJDBCTemplateApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fresher-building-applications-spring-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fis.training.SpringBootJDBCTemplateApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootJDBCTemplateApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="fresher-building-applications-spring-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fresher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fresher.SpringBootJDBCTemplateApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootJDBCTemplateApp" />
+        <item itemvalue="JUnit.JdbcPersonRepoTest" />
+        <item itemvalue="JUnit.JdbcPersonRepoTest.testFindAll" />
+        <item itemvalue="JUnit.JdbcDetectiveRepoTest" />
+        <item itemvalue="JUnit.JdbcAgnosticRepoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae8b13e2-f269-4d93-b579-f5b5e2c57266" name="Changes" comment="" />
+      <created>1653486073859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653486073859</updated>
+      <workItem from="1655706485892" duration="4414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1655710473573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1655710473573" />
+    <state x="-1480" y="94" key="SettingsEditor" timestamp="1655706504076">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="94" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1655706504076" />
+  </component>
+</project>
